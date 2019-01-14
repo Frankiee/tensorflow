@@ -6,7 +6,7 @@
 [Python Notebook](https://github.com/Frankiee/training-data-analyst/blob/master/courses/machine_learning/deepdive/03_tensorflow/d_traineval.ipynb)
 
 ### To run train_and_evaluate
-* `cd intro-tensorflow`
+* `cd intro_tensorflow`
 * `python week2/train_and_evaluate.py`
 
 `taxi_trained` folder is generated containing checkpoint & log data
