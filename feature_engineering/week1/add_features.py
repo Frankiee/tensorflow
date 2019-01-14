@@ -26,8 +26,8 @@ df = pd.read_csv("./week1/california_housing_train.csv", sep=",")
 # We'll print out a quick summary of a few useful statistics on each column.
 # This will include things like mean, standard deviation, max, min, and
 # various quantiles.
-df.head()
-df.describe()
+print df.head()
+print df.describe()
 
 # Now, split the data into two parts -- training and evaluation.
 np.random.seed(seed=1)  # makes result reproducible
