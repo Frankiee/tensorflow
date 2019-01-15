@@ -11,7 +11,7 @@ def my_grep(line, term):
 
 if __name__ == '__main__':
     p = beam.Pipeline(argv=sys.argv)
-    input_path = 'week2/javahelp/*.java'
+    input_path = 'javahelp/*.java'
     output_prefix = 'tmp/output'
     searchTerm = 'import'
 
