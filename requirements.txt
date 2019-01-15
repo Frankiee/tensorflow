@@ -1,2 +1,4 @@
 tensorflow==1.12.0
 tensorboard==1.12.2
+google-cloud-dataflow==2.5.0
+gsutil==4.35

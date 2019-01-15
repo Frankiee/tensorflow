@@ -15,7 +15,7 @@ pd.options.display.float_format = '{:.1f}'.format
 
 
 # load our data set.
-df = pd.read_csv("./week1/california_housing_train.csv", sep=",")
+df = pd.read_csv("./week1_1_features/california_housing_train.csv", sep=",")
 
 
 # ##################################
