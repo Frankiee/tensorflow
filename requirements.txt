@@ -2,3 +2,6 @@ tensorflow==1.12.0
 tensorboard==1.12.2
 google-cloud-dataflow==2.5.0
 gsutil==4.35
+apache-beam==2.9.0
+tensorflow-transform==0.11.0
+tflearn==0.3.2
