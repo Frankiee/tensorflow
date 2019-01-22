@@ -5,3 +5,5 @@ gsutil==4.35
 apache-beam==2.9.0
 tensorflow-transform==0.11.0
 tflearn==0.3.2
+tensor2tensor==1.12.0
+Gutenberg==0.7.0   # Gives us access to historical poems
